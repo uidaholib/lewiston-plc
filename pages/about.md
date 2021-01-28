@@ -5,16 +5,13 @@ permalink: /about.html
 ---
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About the Collection Builder CDM Skin" %}
+## About this site
 
-## About the Collection Builder CDM Skin
+This curated digital collections comes from the <a href='https://www.lib.uidaho.edu/digital/plcphotos/'>Potlatch Lumber Company Photograph Collection</a>, which is maintained by the <a href="https://www.lib.uidaho.edu/digital/">University of Idaho Library's Digital Initatives program</a>.
 
-This demo collection features items from the University of Idaho Library's [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/), and is build using [CollectionBuilder-CONTENTdm](https://github.com/CollectionBuilder/collectionbuilder-contentdm).
+This site was made based on a request for a patron. We curated images of Lewiston and Nez Perce County from the collection and built a quick site for their use. The site is not discoverable via Google and meant to be used for educational purposes only. 
 
-CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. 
-The demo collection features images, document pdfs, audio, and YouTube video items to demonstrate the range of possibilities using the CollectionBuilder visualizations.
+If you would like a high-resolution image from this collection, please contact libspec@uidaho.edu with your inquiry. 
 
-Psychiana was a "mail order" religion popular in the 1930s and 40s.
-Visit the full [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/) (also built with a version of CollectionBuilder) or the [Frank B. Robinson Papers](http://archiveswest.orbiscascade.org/ark:/80444/xv97133/op=fstyle.aspx?t=k&q=psychiana) finding aid to learn more.
 
 {% include feature/item-figure.html objectid="demo_psychiana554" width="75" %} 
